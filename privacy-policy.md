@@ -6,7 +6,7 @@ Last Updated: [21/5/2025]
 [برهم] ("the App") is developed by [Barham Auto]. This Privacy Policy explains how we handle your information.  
 
 ## 2. Information We Collect  
-The App does **not** collect, store, or share any personal or sensitive user data. The App requires an internet connection for [loading online data].  
+The App collects user data for [Data is collected solely for order processing], all user data will be deleted after 90 days of storing. The App requires an internet connection for [loading online data].  
 
 ## 3. Permissions Used  
 The App uses the **INTERNET** permission to function properly. No other permissions are required.  
