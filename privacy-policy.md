@@ -1,21 +1,56 @@
-# Privacy Policy for [برهم]  
+Privacy Policy for برهم
+Last Updated: 23/5/2025
 
-Last Updated: [21/5/2025]  
+1. Information We Collect
+To process orders, we collect only:
 
-## 1. Introduction  
-[برهم] ("the App") is developed by [Barham Auto]. This Privacy Policy explains how we handle your information.  
+Contact Information: Full name, phone number, and shipping address (provided by you during checkout).
 
-## 2. Information We Collect  
-The App collects user data for [Data is collected solely for order processing], all user data will be deleted after 90 days of storing. The App requires an internet connection for [loading online data].  
+No Accounts: No user registration or login required.
 
-## 3. Permissions Used  
-The App uses the **INTERNET** permission to function properly. No other permissions are required.  
+2. How We Use Your Data
+Order Fulfillment: Your information is used solely to:
 
-## 4. Third-Party Services  
-The App may use third-party services like [Supabase] for [hosting data as database]. These services may collect anonymized data as per their own policies.
+Process and deliver orders
 
-## 5. Changes to This Policy  
-We may update this Privacy Policy. Users will be notified of any changes within the App.  
+Contact you about order updates
 
-## 6. Contact Us  
-For questions about this Privacy Policy, contact us at: [xyphoxauto@gmail.com].
+No Secondary Uses: We never use your data for marketing, ads, or analytics.
+
+3. Data Storage & Security
+All data is stored in Supabase (ISO 27001 certified) with:
+
+HTTPS encryption for all transmissions
+
+Firewall-protected databases
+
+Retention: Orders are automatically deleted after 60 days unless legally required to keep longer.
+
+4. Internet Access
+The app requires internet permission only to:
+
+Display product catalog
+
+Submit and process orders
+
+5. Data Sharing
+No Commercial Sharing: We never sell/rent your data to third parties.
+
+Limited Disclosures: Data may be shared only with:
+
+Shipping partners (for delivery)
+
+Legal authorities if required
+
+6. Your Rights
+Request early deletion of your order data by emailing xyphoxauto@gmail.com
+
+Receive a copy of your stored data
+
+7. Policy Updates
+Changes will be posted here with a new "Last Updated" date.
+
+Continued use after updates constitutes acceptance.
+
+Contact Us:
+For privacy questions: xyphoxauto@gmail.com
